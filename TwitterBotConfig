@@ -1,11 +1,11 @@
 [APIAccess]
-consumerkey = N2QCBS4qu26tIRa4sPELsWdaf
-consumersecret = f08JEwEprQTtEM2zQ9yK7sqUe5K3ow8zEcjcC9wQr3TstafTQp
-accesstoken = 24123808-2DeJoOdpB04t3tlirrVsl9pqUmKiMPFadgf3C6L1m
-secrettoken= ICfH7A3iQuGlbWEoYtnsN2p1XzDd8e0WmGmeHqM7LCgA5
+consumerkey = FILL IN
+consumersecret = FILL IN
+accesstoken = FILL IN
+secrettoken = FILL IN
 
 [ScreenNames]
-user_sn = anguyen90
+user_sn = FILL IN
 competitor_sn = goodreads
 
 [FollowCriteria]
