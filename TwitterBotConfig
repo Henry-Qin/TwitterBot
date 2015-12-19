@@ -1,0 +1,55 @@
+[APIAccess]
+consumerkey = N2QCBS4qu26tIRa4sPELsWdaf
+consumersecret = f08JEwEprQTtEM2zQ9yK7sqUe5K3ow8zEcjcC9wQr3TstafTQp
+accesstoken = 24123808-2DeJoOdpB04t3tlirrVsl9pqUmKiMPFadgf3C6L1m
+secrettoken= ICfH7A3iQuGlbWEoYtnsN2p1XzDd8e0WmGmeHqM7LCgA5
+
+[ScreenNames]
+user_sn = anguyen90
+competitor_sn = goodreads
+
+[FollowCriteria]
+query = #books
+
+[Limits]
+max_count = 2
+max_competitor_followers = 2
+follow_ratio = 0.1
+
+[PeakInterval]
+peak_begin_normal = 09:00:00
+peak_end_normal = 13:00:00
+peak_begin_friday = 16:00:00
+peak_end_friday = 23:59:59
+peak_begin_saturday = 12:00:00
+peak_end_saturday = 15:00:00
+peak_begin_sunday = 17:00:00
+peak_end_sunday = 23:00:00
+
+[EquationCoefficients]
+peak_multiplier = 0.351
+a_upper_normal= 5
+a_lower_normal= 7
+b_upper_normal= 5
+b_lower_normal= 7
+c_upper_normal= 5
+c_lower_normal= 7
+a_upper_friday= 4
+a_lower_friday= 3
+b_upper_friday= 4
+b_lower_friday= 3
+c_upper_friday= 4
+c_lower_friday= 3
+a_upper_saturday= 3
+a_lower_saturday= 2
+b_upper_saturday= 3
+b_lower_saturday= 2
+c_upper_saturday= 3
+c_lower_saturday= 2
+a_upper_sunday= 2
+a_lower_sunday= 1
+b_upper_sunday= 2
+b_lower_sunday= 1
+c_upper_sunday= 2
+c_lower_sunday= 1
+
